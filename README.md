@@ -4,13 +4,13 @@
 
 **A clean, fast, and accessible section-wise schedule viewer for GL Bajaj CSIT students.**
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Click_Here-brightgreen?style=for-the-badge&logo=vercel)]()
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Click_Here-brightgreen?style=for-the-badge&logo=vercel)]( https://malik25252007.github.io/Student_TimeTable/)
 
 [![GitHub Stars](https://img.shields.io/github/stars/malik25252007/student_TimeTable?style=for-the-badge)](https://github.com/malik25252007/student_TimeTable/stargazers)
 
 ---
 
-### 🌐 [**🚀 Explore Live Application**]()
+### 🌐 [**🚀 Explore Live Application**]( https://malik25252007.github.io/Student_TimeTable/)
 
 </div>
 
@@ -22,7 +22,8 @@
 
 | App Interface & Timetable View |
 | :----------------------------: |
-| ![Bajaj Time Table Screenshot](./path-to-your-image.png) |
+| ![Bajaj Time Table Screenshot](<img width="1905" height="955" alt="Screenshot 2026-08-03 220057" src="https://github.com/user-attachments/assets/4f0e1c6c-6489-43cf-aff2-18bfe45c74b4" />
+) |
 
 > *Select your CSIT section (A through G) on the side navigation panel to load your dynamic timetable immediately!*
 
